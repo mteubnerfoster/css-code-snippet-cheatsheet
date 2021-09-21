@@ -7,4 +7,4 @@ Objectives were to make the site do what the instructions indicated, which inclu
 * Ensure that objects had a glow effect when hovered over
 * Ensure an auto-select function activated when code snippets are clicked.
 
-Check it out here: https://mteubnerfoster.github.io/css-code-snippet-cheatsheet
+Check it out here: https://mteubnerfoster.github.io/css-code-snippet-cheatsheet/
